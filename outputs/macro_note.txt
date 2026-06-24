@@ -1,0 +1,1 @@
+Macro tracking index and recession probability metrics verified successfully.
